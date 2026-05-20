@@ -1,0 +1,6 @@
+{
+  "name": "Correlation and Regression Simulator",
+  "description": "An interactive educational tool for exploring correlation, R-squared visualization, and step-by-step linear regression t-test for slope.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
